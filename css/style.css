@@ -1,0 +1,11 @@
+.pages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+
+}
+.ul_pages li{
+    flex-direction: row;
+}
